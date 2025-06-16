@@ -1,1 +1,1 @@
-2024/README.md
+Delete README.md from 2018 folder
